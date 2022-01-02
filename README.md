@@ -1,4 +1,4 @@
-# French DEV podcasts
+# 🇫🇷 French DEV podcasts
 🍎 Bunch of french podcasts about programming and IT stuff
 
 - [135 Grammes](https://play.acast.com/s/135-grammes)
